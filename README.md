@@ -2,7 +2,7 @@
 
 ![multimodal](https://img.shields.io/badge/Machine_Learning-Multimodal-informational) ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
-This repository contains the final project for USC's DSCI course, where we developed a **multimodal AI system** to automatically evaluate behavioral traits and stress levels during interviews by analyzing **audio**, **video**, and **textual** data.
+We developed a **multimodal AI system** to automatically evaluate behavioral traits and stress levels during interviews by analyzing **audio**, **video**, and **textual** data.
 
 ---
 
